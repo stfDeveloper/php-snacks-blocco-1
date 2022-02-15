@@ -11,5 +11,4 @@ $squadre = [
 for ($i=0; $i <count($squadre); $i++) { 
     echo $squadre[$i]['nameHome']." - ".$squadre[$i]['nameGuest']." | " .$squadre[$i]['pointsHome']."-".$squadre[$i]['pointsGuest']."<br>";
 }
-
 ?></h1>
